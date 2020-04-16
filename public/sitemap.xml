@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/introduction-to-uklr/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/introduction-to-uklr-2/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rmd/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rmd/try-something-new/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rpackages/main/</loc>
+    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rpackages/</loc>
+    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-5/</loc>
+    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/chapter-6/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/econometrics/econometric/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/econometrics/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/chapter-1/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/economics/</loc>
+  </url>
+  
+</urlset>

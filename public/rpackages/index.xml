@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rpackages on Blog</title>
+    <link>/rpackages/</link>
+    <description>Recent content in Rpackages on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Kostas Vasilopoulos</copyright>
+    <lastBuildDate>Sun, 18 Mar 2018 12:13:38 +0530</lastBuildDate>
+    
+	<atom:link href="/rpackages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>main</title>
+      <link>/rpackages/main/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
+      
+      <guid>/rpackages/main/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
