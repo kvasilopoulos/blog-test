@@ -5,7 +5,3 @@
 [context.production.environment]
   HUGO_VERSION = "0.62.2"
   HUGO_ENABLEGITINFO = "true"
-
-[[redirects]]
-  from = "/public"
-  to = "https://kvasilopoulos.com/blog/"
